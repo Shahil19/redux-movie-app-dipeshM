@@ -1,5 +1,13 @@
 {
     "cSpell.words": [
+        "apikey",
+        "imdb",
         "reduxjs"
-    ]
+    ],
+    "emmet.preferences": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
 }
